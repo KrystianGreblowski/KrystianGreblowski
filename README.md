@@ -2,6 +2,8 @@
 
 I'm a Frontend Developer who enjoys working with React 😎
 
+I'm always open to new projects and I'm constantly improving my skills 💪
+
 ## My skillset includes:
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
