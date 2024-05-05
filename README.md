@@ -1,6 +1,8 @@
 # Hi, this is Krystian Gręblowski 👋
 
-I'm a Frontend Developer who enjoys working with React 😎 I'm always open to new projects and I'm constantly improving my skills 💪
+I'm a Frontend Developer who enjoys working with React 😎 
+
+I'm always open to new projects and I'm constantly improving my skills 💪
 
 ### My skillset includes 🛠️
 <p>
