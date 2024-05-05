@@ -4,7 +4,7 @@ I'm a Frontend Developer who enjoys working with React 😎
 
 I'm always open to new projects and I'm constantly improving my skills 💪
 
-## My skillset includes:
+### My skillset includes 🛠️
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" />
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" />
@@ -22,20 +22,20 @@ I'm always open to new projects and I'm constantly improving my skills 💪
 <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=Trello&logoColor=white&style=flat" />
 </p>
 
-## Used version control and development tools:
+### Used version control and development tools ⚙️
 <p>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat" />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=flat" />
 </p>
 
-## What I want to learn next:
+### The most commonly used languages ✏️
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystianGreblowski&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### What I want to learn next ✈️
 <p>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?logo=Node.js&logoColor=white&style=flat" />
 <img alt="Cypress" src="https://img.shields.io/badge/Cypress-FF7200?logo=Cypress&logoColor=white&style=flat" />
 </p>
-
-## The most commonly used languages:
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystianGreblowski&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
