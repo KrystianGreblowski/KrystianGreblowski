@@ -29,13 +29,13 @@ I'm always open to new projects and I'm constantly improving my skills 💪
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=flat" />
 </p>
 
-### The most commonly used languages ✏️
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystianGreblowski&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### What I want to learn next ✈️
 <p>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?logo=Node.js&logoColor=white&style=flat" />
 <img alt="Cypress" src="https://img.shields.io/badge/Cypress-FF7200?logo=Cypress&logoColor=white&style=flat" />
 </p>
+
+### The most commonly used languages ✏️
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystianGreblowski&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
