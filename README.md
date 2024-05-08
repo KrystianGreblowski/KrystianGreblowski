@@ -35,7 +35,3 @@ I'm always open to new projects and I'm constantly improving my skills 💪
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?logo=Node.js&logoColor=white&style=flat" />
 <img alt="Cypress" src="https://img.shields.io/badge/Cypress-FF7200?logo=Cypress&logoColor=white&style=flat" />
 </p>
-
-### The most commonly used languages ✏️
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystianGreblowski&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
