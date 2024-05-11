@@ -1,4 +1,4 @@
-# Hi, this is Krystian Greblowski 👋
+# Hi, this is Krystian Gręblowski 👋
 
 I'm a Frontend Developer who enjoys working with React 😎 
 
