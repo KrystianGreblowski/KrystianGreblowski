@@ -34,6 +34,8 @@ I'm always open to new projects and I'm constantly improving my skills 💪
 
 ### What I want to learn next ✈️
 <p>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=CSS3&logoColor=white&style=flat" />
+  <img alt="React" src="https://img.shields.io/badge/React Native-61DAFB?logo=React&logoColor=white&style=flat" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?logo=Node.js&logoColor=white&style=flat" />
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-FF7200?logo=Cypress&logoColor=white&style=flat" />
 </p>
