@@ -29,7 +29,6 @@ I'm always open to new projects and I'm constantly improving my skills 💪
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat" />
   <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?logo=WebStorm&logoColor=white&style=flat" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=flat" />
 </p>
 
 ### What I want to learn next ✈️
