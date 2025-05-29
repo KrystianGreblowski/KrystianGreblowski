@@ -11,7 +11,6 @@ I'm always open to new projects and I'm constantly improving my skills 💪
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" />
   <img alt="React-Hooks" src="https://img.shields.io/badge/React Hooks-0088CC?logo=React&logoColor=white&style=flat" />
   <img alt="React-Router" src="https://img.shields.io/badge/React Router-CA4245?logo=React&logoColor=white&style=flat" />
-  <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack Query-FF4154?logo=React Query&logoColor=white&style=flat" />
   <img alt="Styled-components" src="https://img.shields.io/badge/Styled Components-DB7093?logo=styled-components&logoColor=white&style=flat" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white&style=flat" />
   <img alt="Redux-Saga" src="https://img.shields.io/badge/Redux Saga-999999?logo=Redux-Saga&logoColor=white&style=flat" />
